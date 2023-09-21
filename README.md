@@ -1,4 +1,4 @@
-# *Github-workflow*
+# *Horiseon-workflow*
 
 ## description
 I completed this project to test my skill on Identifying an websites accesibility here are the list of things i completed
