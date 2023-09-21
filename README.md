@@ -9,7 +9,7 @@ I went ahead and made sure the application's CSS file is properly commented.
 If your worrying that I didnt make enough comments dont because I added one for almost **every** line.
 
 ## what did i learn
--I learned to make a good and effecient website you need to make it meet the accesability standards that not only the computers need for it to read your documents properly but also so that the blind or physically impaired can access and use your website via adding alt="image description"
+-I learned to make a good and effecient website you need to make it meet the accessability standards that not only the computers need for it to read your documents properly but also so that the blind or physically impaired can access and use your website via adding alt="image description"
 
 -I learned that your website can have incredibly messy code if you were to add an class or id attribute for every element
 -I learned that it is important to link your links to an id for example <section class="search-engine-optimization" id="search-engine-optimization">
