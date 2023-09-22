@@ -2,7 +2,11 @@
 
 ## Description
 I completed this project to test my skill on Identifying an websites accesibility here are the list of things i completed
-
+What does this application do? It is a website that specailizes in the following:
+* Search Engine Optimization
+* Online Reputation Managment
+* Socail Media Marketing
+### What did i do to insure that *horiseon-workflow* functioned properly
 I made sure all of the application's links all function correctly.
 after that I went ahead and made sure all of the application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 I went ahead and made sure the application's CSS file is properly commented.
