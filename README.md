@@ -16,8 +16,8 @@ If your worrying that I didnt make enough comments dont because I added one for 
 -I learned to make a good and effecient website you need to make it meet the accessability standards that not only the computers need for it to read your documents properly but also so that the blind or physically impaired can access and use your website via adding alt="image description"
 
 -I learned that your website can have incredibly messy code if you were to add an class or id attribute for every element
--I learned that it is important to link your links to an id for example <section class="search-engine-optimization" id="search-engine-optimization">
--I learned about html semantics and how the computer can have trouble reading your <!DOCTYPE html> if you dont have the right semantics
+-I learned that it is important to link your links to an id for example section class="search-engine-optimization" id="search-engine-optimization"
+-I learned about html semantics and how the computer can have trouble reading your !DOCTYPE html if you dont have the right semantics
 
 ### What are semantics elements?
 A semantic element clearly describes its meaning to both the browser and the developer.
