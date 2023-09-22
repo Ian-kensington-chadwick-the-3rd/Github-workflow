@@ -21,8 +21,8 @@ If your worrying that I didnt make enough comments dont because I added one for 
 
 ### What are semantics elements?
 A semantic element clearly describes its meaning to both the browser and the developer.
-Examples of non-semantic elements: <code><div><code> and <code><span><code> - Tells nothing about its content.
-Examples of semantic elements: <code><form>, <table>, and <article><code> - Clearly defines its content.
+Examples of non-semantic elements: <code><div><code> and <code><span></code> - Tells nothing about its content.
+Examples of semantic elements: <code><form>, <table>, and <article></code> - Clearly defines its content.
 url=https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## Colaborators 
